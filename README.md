@@ -3,6 +3,9 @@ This repository collects the SwaggerUI customization along with kotlin and sprin
 
 # Content
 - `snake_case` within auto de/serialization
-```bash
-$ git checkout -b snake-case
-```
+ 
+   snake-case
+
+- `DTO docs`
+
+  dto-field-documentation
