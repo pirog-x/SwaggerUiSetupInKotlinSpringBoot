@@ -1,2 +1,8 @@
-Make sure, that you remove version from `implementation("com.fasterxml.jackson.module:jackson-module-kotlin")`
-so that bom file will choose right one. Or de/serialization won't work.
+# About
+This repository collects the SwaggerUI customization along with kotlin and spring boot
+
+# Content
+- `snake_case` within auto de/serialization
+```bash
+$ git checkout -b snake-case
+```
